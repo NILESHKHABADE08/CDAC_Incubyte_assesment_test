@@ -32,6 +32,9 @@ mycursor = mydb.cursor()
 
 mycursor.execute("SELECT * FROM patients")
 
+
+![image](https://user-images.githubusercontent.com/83622118/137672772-170dd5b7-1c13-4f41-8059-bab9a2da502a.png)
+
 patients = mycursor.fetchall()
 
 for patient in patients:
