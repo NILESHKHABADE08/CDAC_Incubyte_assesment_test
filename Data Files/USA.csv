@@ -1,0 +1,4 @@
+cust_ID,Name,Open_date,Consult_dt,VAC_ID,Dr_Name,State,Country,DOB,Active
+1,Alex,2015-01-06,2015-01-21,MVD,Paul,SA,USA,1998-02-04,Yes
+2,John,2015-06-15,2015-06-21,MCV,Paul,CA,USA,1997-08-08,Yes
+6,Jacob,2018-05-02,2018-05-10,MCV,BILL,LA,USA,1990-02-14,Yes
