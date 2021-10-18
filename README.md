@@ -17,6 +17,8 @@ Tools & Technologies:
 
 # importing necessary libraries
 import mysql.connector
+
+
 mydb = mysql.connector.connect(
     host='localhost',
     user='root',
@@ -24,6 +26,7 @@ mydb = mysql.connector.connect(
     port='3306',
     database='hospital'
 )
+
 
 mycursor = mydb.cursor()
 
